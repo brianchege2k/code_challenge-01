@@ -1,9 +1,12 @@
+// Define the readline module
 const readline = require('readline');
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout
 });
 
+
+//Function calculateGrade with If..else Control statement
 
 function calculateGrade(marks) {
     if (marks >= 79 && marks <= 100) {
@@ -21,7 +24,7 @@ function calculateGrade(marks) {
     }
 }
 
-
+//creating the input,ouput interface
 rl.question("Enter student marks (between 0 and 100): ", function(inputMarks) {
     inputMarks = parseFloat(inputMarks);
 
