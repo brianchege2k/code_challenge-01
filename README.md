@@ -2,4 +2,4 @@
 
 #### By Njuguna Brian Chege
 
-# Question 1 ,2 and 3 represnted by solution one , two and three repectively.
+# Question 1 ,2 and 3 represnted by solution one , two and three respectively.
